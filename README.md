@@ -8,7 +8,7 @@
   * To access the free school membership, please register your school's domain by [clicking here.](downdogapp.com/schools).
   * We are also extending free access until July 1 for all healthcare professionals so we can help those who are helping us. Please [visit](downdogapp.com/healthcare) to register your work healthcare domain.
 
-### 💳💵 Credit	Cards/Finance :
+### 💳💵 Credit	Cards/Finance :   
 
 * **[American	Express](https://www.americanexpress.com/us/customer-service/financial-hardship.html)**	will	waive	2	months	of	payments	without	charging	penalties	or	interest.	
 However,	if	you	use	this	benefit,	you	won’t	be	able	to	use	that	credit	card	or	points	until	you	opt	out.
