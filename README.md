@@ -32,6 +32,13 @@ If you're impacted by COVID-19, contact us for assistance that may be available 
   2. For Retail Bank Small Business Customers: Fee waivers on monthly service fees and remote deposit capture; waived penalties for early CD withdrawal; Bankers available after hours and on weekends for support
   3. For eligible Credit Card Customers: Credit line increases and collection forbearance programs.
   4. For eligible Mortgage Customers: A range of hardship programs through our service provider, Cenlar FSB. Please contact them at 1-855-839-6253 Monday-Friday 8:30am - 8pm ET and Saturday 8:30am - 5pm ET
+* **Discover**
+* We have support in place for qualified Discover® customers who experience hardship as a result of the outbreak. Please contact our customer service teams as follows:
+  1. Card Customers: Call 1-800-497-2816 (TTY/TDD 1-800-347-7449) any time or message us through your Account Center online or in the mobile app.
+  2. Online Banking Customers: Call 1-800-347-7000 (TTY/TDD 1-800-347-7454) any time.
+  3. Personal Loan Customers: Call 1-877-256-2632 (TTY/TDD 1-866-710-3357) between 8am - 8pm ET, Monday through Friday.
+  4. Home Loan Customers: Call 1-855-295-2193 (TTY/TDD 1-866-352-3684) between 8am - 8pm ET, Monday through Friday.
+  5. Student Loan Customers: Call 1-800-STUDENT (TTY/TDD 1-800-223-5614) any time.
 
 *  **PNC**: Loans & Credit Card Assistance
 Hardship. If you are unable to make your payment, we may have options to help you navigate this unprecedented time. 
@@ -44,13 +51,16 @@ Hardship. If you are unable to make your payment, we may have options to help yo
 * **TD Bank**: If you've been affected by COVID-19, reach out to see how we can support you. We may be able to provide some financial relief that can help. Call us at 1-888-751-9000 to learn more.
 
 ### Phone	and	Internet:
-*	**Spectrum	Broadband	and	Wi-Fi	Internet** Free	Access for 60	Days to households	with students.
-
+*	**AT&T:**	AT&T	is	suspending	broadband	data	caps	for	home	internet	customers.	You	can	read	more	
+[**here**](https://www.theverge.com/2020/3/12/21177538/att-broadband-internet-data-capcoronavirus-suspend).	They’re	also	waiving	late	fees	for	next	30-60	days.	They’ll	also	provide	free	access	
+to	its	public	WiFi	hot	spots.
 *	**Charter**	will	offer	free	Spectrum	broadband	and	Wi-Fi	access	for	60	days	to	households	with	K-12	
 and/or	college	students	who	do	not	already	have	a	Spectrum	broadband	subscription	and	at	any	service	
 level	up	to	100	Mbps.	To	enroll	call	1-844-488-8395.	Installation	fees	will	be	waived	for	new	student	
 households.
-
+*	**Comcast/Xfinity:**	Comcast	opens	Xfinity	WiFi	Network	Nationally	for	Free	and	Offers	Unlimited	
+Data	for	Free.[	**Click	here**](https://corporate.comcast.com/covid-19)	for	more	details
+*	**Spectrum	Broadband	and	Wi-Fi	Internet** Free	Access for 60	Days to households	with students.
 *	**T-Mobile	&	Metro	Active	Customers:**	All	current	T-Mobile	and	Metro	by	T-Mobile	customers	who	
 have	plans	with	data	will	have	unlimited	smartphone	data	for	the	next	60	days	(excluding	roaming).	
 [**here**](https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response?)	are	more	details.
@@ -60,9 +70,7 @@ have	plans	with	data	will	have	unlimited	smartphone	data	for	the	next	60	days	(e
 *	**Mint	Mobile:**	New	and	existing	customers	can	get	Unlimited	4G	LTE	Data	for	free.	[**Click	here**]
 (https://www.mintmobile.com/unlimited/?)	for	more	details
 
-*	**AT&T:**	AT&T	is	suspending	broadband	data	caps	for	home	internet	customers.	You	can	read	more	
-[**here**](https://www.theverge.com/2020/3/12/21177538/att-broadband-internet-data-capcoronavirus-suspend).	They’re	also	waiving	late	fees	for	next	30-60	days.	They’ll	also	provide	free	access	
-to	its	public	WiFi	hot	spots.
+
 
 *	**Sprint**	is	offering	unlimited	data	for	all	users	and	waiving	late	fees	for	next	30-60	days
 
@@ -70,11 +78,9 @@ to	its	public	WiFi	hot	spots.
 connected	if	negatively	impacted	by	global	crisis.	More	[**here**]
 (https://www.verizon.com/about/news/verizon-help-customers-and-small-businesses)
 
-*	**Comcast/Xfinity:**	Comcast	opens	Xfinity	WiFi	Network	Nationally	for	Free	and	Offers	Unlimited	
-Data	for	Free.[	**Click	here**](https://corporate.comcast.com/covid-19)	for	more	details
 
-*	**Enterprise**	will	waive	underage	fees	for	college	students	age	18-24.	[**here**]
-(https://www.enterprise.com/en/car-rental/deals/young-driver.html)	is	more	details
+
+
 
 ### Utilities
 * **PG&E**: We have implemented a series of billing and service modifications to support customers who have been impacted by the pandemic:
@@ -85,7 +91,7 @@ Go to pge.com/covid19consumerprotections to learn more about our support for cus
 
 * **FPL**: For customers experiencing hardship as a result of COVID-19, we have resources from FPL available to help, and to the extent they are available, we’ll continue to connect customers with resources from federal, state and local authorities. A good place to learn more is FPL.com/Help. We have also implemented the same policies that we do during major crisis events and are suspending electrical disconnections, providing payment extensions and waiving certain late payment fees for customers in a hardship situation.
 
-### Major	Domestic	Airlines:
+### Airlines, Hotels, and Travel:
 *	**American	Airlines:**	American	Airlines	will	waive	the	change	fee	only	on	published	Non-Refundable	
 Fare	tickets.	Tickets	must	be	purchased	between	March	1,	2020	and	March	31,	2020,	with	original	travel	
 between	March	1,	2020	and	January	30,	2021.	Changes	must	be	made	prior	to	the	departure	of	your	
@@ -93,10 +99,23 @@ original	flight.	Any	difference	in	fare	will	apply.
 *	**Delta Airlines:**	No	Change	Fees	For	All	Tickets	Purchased	Between	March	1	to	31,	2020.	Ticket	Can	Be	
 Changed	One-Time	To	An	Alternate	Itinerary.	Must	Be	Re-issued	On/Before:	February	28,	2021.	Any	
 difference	in	fare	will	apply.
+*	**Enterprise**	will	waive	underage	fees	for	college	students	age	18-24.	[**here**]
+(https://www.enterprise.com/en/car-rental/deals/young-driver.html)	is	more	details
+*  **Hilton** : 
+   *  Existing Reservations. All individual reservations—even those described as “non-cancellable” (“Advanced Purchase”)—that are scheduled for arrival on or before June 30, 2020 can be changed or cancelled at no charge, up to 24 hours before your scheduled arrival day.
+   *  New Reservations. Any individual reservations you make—even those described as “non-cancellable” (“Advanced Purchase”)—that are booked between today and June 30, 2020 for any future arrival date can be changed or cancelled at no charge, up to 24 hours before your scheduled arrival day.
+   *  If you need to adjust reservations made via the Hilton website, app or call center, you can change your reservation here or contact the Hilton Guest Assistance team. **If you need to adjust reservations made through another travel site, please contact them for assistance**.
+   *  Health Care and First Responders. We are partnering with federal, state and local governments to provide housing for first responders and health care workers.
+   *  Financial Assistance. Our Hilton Effect Foundation has pledged financial assistance to organizations helping those impacted by COVID-19.
+   *  Donating Hilton Honors Points. We have made it possible for our members to donate Hilton Honors Points to World Central Kitchen, Clean the World, Project Hope or Direct Relief. All Points donations will be converted into cash and sent directly to the organization.
 *	**JetBlue Airlines:**	JetBlue	has	suspended	change	and	cancel	fees	for	all	new	flight	bookings	made	between	
 March	6,	2020	and	March	31,	2020	for	travel	through	September	8,	2020.	The	change/cancel	fees	
 suspension	still	applies	for	bookings	made	between	February	27,	2020	and	March	5,	2020	for	travel	
 through	June	1,	2020.
+* **Marriott/BonVoy**: 
+  * For guests with existing reservations for any future arrival date, including reservations with pre-paid rates that are typically more restrictive, we will allow full changes or cancellation without a charge up to 24 hours prior to arrival,* as long as the change or cancellation is made by April 30, 2020. Please note that any changes to existing reservations will be subject to availability and any rate differences.
+  * For guests making new reservations for any future arrival date, including reservations with pre-paid rates, between today and April 30, 2020, we will allow the reservation to be changed or cancelled at no charge up to 24 hours before your scheduled arrival date.* Please note that changes to the reservation will be subject to availability and any rate differences.
+  * Guests who booked via online travel agents or other third-party travel professionals are advised to contact their booking provider for information on their policies.
 *	**Southwest Airlines:**	They	always	offer	free	flight	changes	so	nothing	changes	for	them.	Any	difference	in	
 fare	will	apply.
 
