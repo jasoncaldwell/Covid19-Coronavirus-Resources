@@ -1,6 +1,6 @@
 # Covid19/CoronaVirus Relief Resources
 
-## Sorry	for	the	large	wall	of	text	but	figured	it	may	be	useful to someone.
+## Sorry	for	the	large	wall	of	text	but	figured	it	may	be	useful to someone. I am in the process of vlaidating and updating the resources listed below. If you would like to contribute, please open a pull request. Thanks! 
 
 ### 📱 Apps:
 * **[DownDog Yoga App](https://www.downdogapp.com/)** So that anyone who wants to practice at home can do so, **we are making all of our apps - Down Dog, Yoga for Beginners, HIIT, Barre, and 7 Minute Workout - completely free until May 1st.** 
