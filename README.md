@@ -1,4 +1,4 @@
-# Covid19/CoronaVirus Resources
+# Covid19/CoronaVirus Relief Resources
 
 ## Sorry	for	the	large	wall	of	text	but	figured	it	may	be	useful to someone.
 
