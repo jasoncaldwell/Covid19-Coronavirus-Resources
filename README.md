@@ -2,6 +2,47 @@
 
 ## Sorry	for	the	large	wall	of	text	but	figured	it	may	be	useful to someone.
 
+### Apps:
+* **DownDog Yoga App** [https://www.downdogapp.com/] So that anyone who wants to practice at home can do so, **we are making all of our apps - Down Dog, Yoga for Beginners, HIIT, Barre, and 7 Minute Workout - completely free until May 1st.** In response to the many school closures taking place, we are also offering free access until July 1st for all students and teachers (K-12 and college). To access the free school membership, please register your school's domain by visiting downdogapp.com/schools.We are also extending free access until July 1 for all healthcare professionals so we can help those who are helping us. Please visit downdogapp.com/healthcare to register your work healthcare domain.
+
+### Credit	Cards/Finance:
+
+* **American	Express**	will	waive	2	months	of	payments	without	charging	penalties	or	interest.	
+However,	if	you	use	this	benefit,	you	won’t	be	able	to	use	that	credit	card	or	points	until	you	opt	out.	
+[**Click	here**](https://www.americanexpress.com/us/customer-service/financial-hardship.html)	for	
+more	info	or	to	sign	up	for	their	hardship	program
+*	**Apple	Card**	holders	will	be	allowed	to	skip	their	March	payment	without	incurring	interest	by	
+signing	up	for	a	Customer	Assistance	Program,	Apple	is	informing	its	customers.	To	join	the	Customer	
+Assistance	Program,	Apple	Card	customers	can	call	an	Apple	support	rep	directly	through	the	Apple	
+Wallet	app	and	ask	to	be	added.	[**Click	here**](https://techcrunch.com/2020/03/16/you-can-ask-toskip-your-apple-card-payment-for-march-apple-tells-customers/)	for	more	details
+
+* **Bank of America** is offering a Credit Card deferral program, along with a number of other options here: (https://about.bankofamerica.com/promo/assistance/latest-updates-from-bank-of-america-coronavirus?cm_sp=EBZ-BAC-Announcement-)
+
+* **Chase** (https://www.chase.com/digital/resources/coronavirus)**,	and	other	banks	will	offer	60	days	of	no	late	fees	or	interest	for	
+those	impacted	by	the	quarantine,	call	your	bank	to	find	out	if	you	are	eligible	and	what	terms	will	
+apply.** If you need help with:
+
+  1. Your mortgage payment: here are some options for you: https://www.chase.com/digital/resources/coronavirus/mortgage
+  2. Your car payment: We have loan and lease extension options for you: https://www.chase.com/digital/resources/coronavirus/auto-lending
+  3. Your business: We’ll provide updates and resources to help you manage through potential disruptions: https://recovery.chase.com/contingency-plan
+
+* **CitiBank** Account Assistance
+If you're impacted by COVID-19, contact us for assistance that may be available to you. Effective Monday March 9, 2020 for an initial thirty days:
+  1. For Retail Bank Customers: Fee waivers on monthly service fees; waived penalties for early CD withdrawal.
+  2. For Retail Bank Small Business Customers: Fee waivers on monthly service fees and remote deposit capture; waived penalties for early CD withdrawal; Bankers available after hours and on weekends for support
+  3. For eligible Credit Card Customers: Credit line increases and collection forbearance programs.
+  4. For eligible Mortgage Customers: A range of hardship programs through our service provider, Cenlar FSB. Please contact them at 1-855-839-6253 Monday-Friday 8:30am - 8pm ET and Saturday 8:30am - 5pm ET
+
+*  **PNC**: Loans & Credit Card Assistance
+Hardship. If you are unable to make your payment, we may have options to help you navigate this unprecedented time. 
+   1. Specifically, PNC will consider assisting those impacted customers by waiving or refunding fees associated with deposit accounts or lending products, including credit card and mortgage. 
+   2. If you are concerned about making consumer loan, auto loan, credit card or mortgage loan payments, we have a variety of programs available to assist you.  Solutions may include the ability to postpone payments for a period of time.
+   3. You may be able to postpone payments for up to 90 days with no late fees during the postponement period if you have one of the following products:
+   4. Auto Loan, Unsecured Installment Loan, Credit Card, Unsecured Line of Credit, Mortgage, Home Equity Loan or Home Equity Line of Credit.
+   5. For Student Loans, you may be able to postpone payments for up to 90 days with no late fees during the postponement period. We also have loan modification options available for those who qualify. Please go to (External)www.aessuccess.org and once logged onto your account, select “having your payments postponed” to request assistance.
+   6. **We have also temporarily suspended foreclosure proceedings and sales, repossession, and eviction activities.**
+* **TD Bank**: If you've been affected by COVID-19, reach out to see how we can support you. We may be able to provide some financial relief that can help. Call us at 1-888-751-9000 to learn more.
+
 ### Phone	and	Internet:
 *	**Spectrum	Broadband	and	Wi-Fi	Internet** Free	Access for 60	Days to households	with students.
 
@@ -35,77 +76,56 @@ Data	for	Free.[	**Click	here**](https://corporate.comcast.com/covid-19)	for	more
 *	**Enterprise**	will	waive	underage	fees	for	college	students	age	18-24.	[**here**]
 (https://www.enterprise.com/en/car-rental/deals/young-driver.html)	is	more	details
 
+### Utilities
+* **PG&E**: We have implemented a series of billing and service modifications to support customers who have been impacted by the pandemic:
+Suspending service disconnections for non-payment and waiving security deposits;
+Implementing flexible payment plan options; and
+Providing additional support for low-income and medical baseline customers.
+Go to pge.com/covid19consumerprotections to learn more about our support for customers during these difficult times.
+
+* **FPL**: For customers experiencing hardship as a result of COVID-19, we have resources from FPL available to help, and to the extent they are available, we’ll continue to connect customers with resources from federal, state and local authorities. A good place to learn more is FPL.com/Help. We have also implemented the same policies that we do during major crisis events and are suspending electrical disconnections, providing payment extensions and waiving certain late payment fees for customers in a hardship situation.
+
 ### Major	Domestic	Airlines:
-*	**Southwest:**	They	always	offer	free	flight	changes	so	nothing	changes	for	them.	Any	difference	in	
-fare	will	apply.
-
-*	**JetBlue:**	JetBlue	has	suspended	change	and	cancel	fees	for	all	new	flight	bookings	made	between	
-March	6,	2020	and	March	31,	2020	for	travel	through	September	8,	2020.	The	change/cancel	fees	
-suspension	still	applies	for	bookings	made	between	February	27,	2020	and	March	5,	2020	for	travel	
-through	June	1,	2020.
-
-*	**Delta:**	No	Change	Fees	For	All	Tickets	Purchased	Between	March	1	to	31,	2020.	Ticket	Can	Be	
-Changed	One-Time	To	An	Alternate	Itinerary.	Must	Be	Re-issued	On/Before:	February	28,	2021.	Any	
-difference	in	fare	will	apply.
-
 *	**American	Airlines:**	American	Airlines	will	waive	the	change	fee	only	on	published	Non-Refundable	
 Fare	tickets.	Tickets	must	be	purchased	between	March	1,	2020	and	March	31,	2020,	with	original	travel	
 between	March	1,	2020	and	January	30,	2021.	Changes	must	be	made	prior	to	the	departure	of	your	
 original	flight.	Any	difference	in	fare	will	apply.
+*	**Delta Airlines:**	No	Change	Fees	For	All	Tickets	Purchased	Between	March	1	to	31,	2020.	Ticket	Can	Be	
+Changed	One-Time	To	An	Alternate	Itinerary.	Must	Be	Re-issued	On/Before:	February	28,	2021.	Any	
+difference	in	fare	will	apply.
+*	**JetBlue Airlines:**	JetBlue	has	suspended	change	and	cancel	fees	for	all	new	flight	bookings	made	between	
+March	6,	2020	and	March	31,	2020	for	travel	through	September	8,	2020.	The	change/cancel	fees	
+suspension	still	applies	for	bookings	made	between	February	27,	2020	and	March	5,	2020	for	travel	
+through	June	1,	2020.
+*	**Southwest Airlines:**	They	always	offer	free	flight	changes	so	nothing	changes	for	them.	Any	difference	in	
+fare	will	apply.
 
-*	**United:**	When	you	book	a	flight	between	March	3	and	March	31,	2020,	you	can	change	it	for	free	
+*	**United Airlines:**	When	you	book	a	flight	between	March	3	and	March	31,	2020,	you	can	change	it	for	free	
 over	the	next	12	months.	Any	difference	in	fare	will	apply.
 
 ### Fitness:
 *	**Planet	Fitness**	is	offering	Free	in-home	workouts	for	everyone.	Workouts	will	be	led	by	trainers	
 and	surprise	celebrity	guests.	If	you	miss	the	live	class,	you	can	come	back	and	watch	it	later.
+
 *	**Peleton**	is	offering	an	extended	90-day	free	trial	to	its	at-home	workouts	application	during	the	
 quarantine.	The	in-app	workouts	don’t	require	you	own	any	Peloton	equipment,	and	include	yoga,	HIIT,	
 stretching,	and	other	categories.	Download	the	Peleton	app	for	free	in	the	App	Store	or	Play	Store.
 
-### Credit	Cards/Finance:
-*	**Apple	Card**	holders	will	be	allowed	to	skip	their	March	payment	without	incurring	interest	by	
-signing	up	for	a	Customer	Assistance	Program,	Apple	is	informing	its	customers.	To	join	the	Customer	
-Assistance	Program,	Apple	Card	customers	can	call	an	Apple	support	rep	directly	through	the	Apple	
-Wallet	app	and	ask	to	be	added.	[**Click	here**](https://techcrunch.com/2020/03/16/you-can-ask-toskip-your-apple-card-payment-for-march-apple-tells-customers/)	for	more	details
-
-* **American	Express**	will	waive	2	months	of	payments	without	charging	penalties	or	interest.	
-However,	if	you	use	this	benefit,	you	won’t	be	able	to	use	that	credit	card	or	points	until	you	opt	out.	
-[**Click	here**](https://www.americanexpress.com/us/customer-service/financial-hardship.html)	for	
-more	info	or	to	sign	up	for	their	hardship	program
-
-*	·	[	**Chase**](https://www.chase.com/digital/resources/coronavirus?
-jp_cmp=rb/CV/off/stayconnected/na)**,	and	other	banks	will	offer	60	days	of	no	late	fees	or	interest	for	
-those	impacted	by	the	quarantine,	call	your	bank	to	find	out	if	you	are	eligible	and	what	terms	will	
-apply.**
-
-*	·	Some	leasing	companies	are	offering	to	push	off	payments	for	1	to	3	months.	In	return,	they’ll	extend	
-your	lease	by	that	amount	of	time	and	have	you	pay	regular	payments	then,	essentially	giving	you	an	
-extra	1	to	3	months	for	free.	Your	max	miles	for	the	lease	though	will	remain	the	same.	Contact	your	
-auto	see	what	they’re	offering.
-
-*	[	Chevrolet,	Buick,	GMC	and	Cadillac	owners	get	free	On-Star	and	free	in	vehicle	internet]
-(https://www.onstar.com/us/en/onstar-cares/)
-
-*	·	Many	states	(New	York	included)	and	mortgage	companies	are	offering	1	to	6	months	of	no	mortgage	
-payment	requirements.	Contact	your	mortgage	provider	to	see	what	they’re	offering	and	if	you	qualify.
 
 ### Food	/	Misc:
-*	**Uber	Eats**	will	waive	delivery	fees	on	all	orders	amid	the	quarantine.	Service	charges	will	still	
-apply	though.	More	info	[**here**](https://www.cnet.com/news/uber-eats-waives-delivery-fees-amidcoronavirus-outbreak/)
+
+* **Airbnb**	is	offering	[**free	cancellations**](https://news.airbnb.com/extenuating-circumstancespolicy-activated-around-the-world/)	on	most	reservations.
+* **Crocs**	will	be	giving	out	10,000	pairs	of	their	shoes	for	FREE	starting	3/26	12pm	EST	to	healthcare	
+workers.	[here	](https://crocs-us.xkpq.net/G9V0B)is more	info
+* **CVS	and	Walgreens:**	Both	CVS	and	Walgreens	will	[**waive	charges	for	home	delivery**]
+(https://www.forbes.com/sites/brucejapsen/2020/03/12/walgreens-joins-cvs-waiving-drug-deliveryfees-amid-coronavirus-crisis/#7e3d647e51e3)	of	prescription	medicines.
+* **Uber	Eats**	will	waive	delivery	fees	on	all	orders	amid	the	quarantine.	Service	charges	will	still	
+apply	though.	More	info	[**here**](https://www.cnet.com/news/uber-eats-waives-delivery-fees-amidcoronavirus-outbreak/).
 
 *	**Starbucks**	will	give	a	free	tall	hot	or	iced	brewed	coffee	to	anyone	that	identifies	themselves	as	a	
-front	line	responder	from	today	through	May	3rd
+front	line	responder	from	today	through	May	3rd.
 
-*	Crocs	will	be	giving	out	10,000	pairs	of	their	shoes	for	FREE	starting	3/26	12pm	EST	to	healthcare	
-workers.	[here	](https://crocs-us.xkpq.net/G9V0B)is more	info
-
-*	·	**Airbnb**	is	offering	[**free	cancellations**](https://news.airbnb.com/extenuating-circumstancespolicy-activated-around-the-world/)	on	most	reservations
-
-*	·	**CVS	and	Walgreens:**	Both	CVS	and	Walgreens	will	[**waive	charges	for	home	delivery**]
-(https://www.forbes.com/sites/brucejapsen/2020/03/12/walgreens-joins-cvs-waiving-drug-deliveryfees-amid-coronavirus-crisis/#7e3d647e51e3)	of	prescription	medicines
-
-*	·	**Zoom	Video**	is	offering	[**free	video	conferences	for	schools**]
+* **Zoom	Video**	is	offering	[**free	video	conferences	for	schools**]
 (https://zoom.us/docs/ent/school-verification.html).
 
 ### News	Publications	that	are	removing	their	paywalls:
@@ -117,7 +137,10 @@ workers.	[here	](https://crocs-us.xkpq.net/G9V0B)is more	info
 *	·	[	**AP	News**](https://apnews.com/)
 *	·	[	**The	Athletic**](https://theathletic.com/1669234/2020/03/16/covid-19-and-sports-latest-newsand-information-updated/)
 
-### **Master	List	of	Educational	and	Fun	Resources**
+### **Misc**
+* **Chevrolet,	Buick,	GMC	and	Cadillac**	owners	get	free	On-Star	and	free	in	vehicle	internet: (https://www.onstar.com/us/en/onstar-cares/) Because this is a situation that affects us all, we are also turning on Crisis Assist* and offering 3 GB/3 months of in-vehicle data* (whichever comes first) for all current Chevrolet, Buick, GMC and Cadillac owners with properly equipped vehicles for a limited time. Feel free to use these services to help navigate the unexpected.
+
+### **List	of	Educational	and	Fun	Resources**
 *	·	Scholastic	has	setup	a	“learn	from	home”	website	which	will	offer	**free**	daily	courses	for	kids	
 stuck	at	home	because	of	school	cancellations.	You	can	[**click	here**]
 (https://classroommagazines.scholastic.com/support/learnathome.html)	for	more	info	or	to	sign	up.
