@@ -178,6 +178,7 @@ in	3rd	grade	thru	8th	grade.	Use	Promo	Code:	**SCHOOL7771	or	AOFLUNICEF**
 schools	are	still	closed.
 *	Hundreds	of	printable	educational	worksheets	for	[free](https://www.worksheetfun.com/).
 *	[**Digital	learning**](https://www.curriki.org/)	content	for	preschool	through	high	school.
+* [**Free Chrome Extension**](https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp) A chrome extension to help promote the "Do The Five" W.H.O. guidelines.
 
 #### Language Arts
 *	Phonics	skills	[https://www.starfall.com/h/](https://www.starfall.com/h/)
